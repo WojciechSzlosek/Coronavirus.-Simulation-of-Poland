@@ -10,4 +10,4 @@ At the time of this "text" (March 12), we have 51 cases of this virus infection 
 
 Consider the coronavirus chart:
 
-![picture1](./images/corona1.jpg)
+![picture1](./images/corona1.png)
