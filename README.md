@@ -2,11 +2,12 @@
 
 This program is a mathematically possible interpretation of the course of coronavirus infections in Poland.
 The considerations are based on mathematical insights on the development of the disease in Central and Western Europe, they are quite general, but correctly depict the scenario of the future.
+I use Python to create most charts and I use C++ to create a simple simulation.
 
 ## General considerations.
 
 A resident of Zielona Góra became the first patient in Poland diagnosed with coronavirus. It happened on March 4, 2020.
-At the time of this "text" (March 12), we have 51 cases of this virus infection in Poland. What's next?
+At the time of this "text" (March 13), we have 51 cases of this virus infection in Poland. What's next?
 
 Consider the coronavirus chart:
 
@@ -22,6 +23,6 @@ The exponential increase looks like a straight line, we find that the value of t
 
 ## Methodology.
 
-In general, two cases of virus spread should be considered. First: people are completely isolated from each other. Second: people move freely.
+In general, two cases of virus spread should be considered. First: people are completely isolated from each other. Second: people move freely. Of course, we accept the second "case", because you can not thoughtlessly assume that everyone will spend all time in quarantine.
 
 ![picture3](./images/corona3.png)
