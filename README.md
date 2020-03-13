@@ -23,6 +23,12 @@ The exponential increase looks like a straight line, we find that the value of t
 
 ## The future of Poland against the backdrop of world events.
 
+![china and poland](./images/corona4.png)
+
+[orange: China; blue: Poland]
+
+As you can see, coronavirus WILL BE a problem for Poland. China has already dealt with it, the number of infections there is increasing by around 150 people a day. China has therefore coped with the crisis.
+
 ## Methodology.
 
 In general, two cases of virus spread should be considered. First: people are completely isolated from each other. Second: people move freely. Of course, we accept the second "case", because you can not thoughtlessly assume that everyone will spend all time in quarantine.
@@ -32,3 +38,6 @@ Finally, it can be concluded that a better graph depicting the virus will be a l
 
 Note that the "growth factor" (from the picture above) will be a number, let's call this number as 'c'. In addition, let's specify "inflection point" as the function value for the 'z' [f(z)] argument. We assume that the domain of functions are natural numbers (days).
 As the function approaches the inflection point, the number 'c' will decrease (at the end: c = 1). 
+For simplicity I assume that the average value of 'c' in the function will be: the 16th root of 10 (see above). Let c = 1.27 at the beginning. When in Poland c = 1.00? I do not know, it can be assumed that in a few weeks.
+
+
