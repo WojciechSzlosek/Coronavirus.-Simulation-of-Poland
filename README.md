@@ -40,4 +40,4 @@ Note that the "growth factor" (from the picture above) will be a number, let's c
 As the function approaches the inflection point, the number 'c' will decrease (at the end: c = 1). 
 For simplicity I assume that the average value of 'c' in the function will be: the 16th root of 10 (see above). Let c = 1.27 at the beginning. When in Poland c = 1.00? I do not know, it can be assumed that in a few weeks.
 
-
+szlosek
