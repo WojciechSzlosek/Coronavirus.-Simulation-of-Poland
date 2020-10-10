@@ -39,5 +39,3 @@ Finally, it can be concluded that a better graph depicting the virus will be a l
 Note that the "growth factor" (from the picture above) will be a number, let's call this number as 'c'. In addition, let's specify "inflection point" as the function value for the 'z' [f(z)] argument. We assume that the domain of functions are natural numbers (days).
 As the function approaches the inflection point, the number 'c' will decrease (at the end: c = 1). 
 For simplicity I assume that the average value of 'c' in the function will be: the 16th root of 10 (see above). Let c = 1.27 at the beginning. When in Poland c = 1.00? I do not know, it can be assumed that in a few weeks.
-
-szlosek
